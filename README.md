@@ -18,7 +18,7 @@ In my current role in higher education, I focus on front-end technologies, web d
 <img src="./Images/html.png" alt="html" width="75"/>
 <img src="./Images/CSS.png" alt="css" width="75"/>
 <img src="./Images/JS.PNG" alt="js" width="75"/>
-<img src="./Images/Java.png.PNG" alt="java" width="75"/>
+<img src="./Images/Java.png" alt="java" width="75"/>
 <img src="./Images/SB.png" alt="spring-boot" width="75"/>
 <img src="./Images/React.png" alt="react" width="75"/>
 <img src="./Images/SQL.png" alt="sql" width="75"/>
