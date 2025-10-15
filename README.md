@@ -14,7 +14,6 @@ In my current role in higher education, I focus on front-end technologies, web d
 <br/>
 <p>
 <img src="./Images/WP.png" alt="wp" width="70"/>
-<img src="./Images/php.png" alt="php" width="70"/>
 <img src="./Images/html.png" alt="html" width="70"/>
 <img src="./Images/CSS.png" alt="css" width="70"/>
 <img src="./Images/JS.PNG" alt="js" width="70"/>
@@ -22,6 +21,7 @@ In my current role in higher education, I focus on front-end technologies, web d
 <img src="./Images/SB.png" alt="spring-boot" width="70"/>
 <img src="./Images/React.png" alt="react" width="70"/>
 <img src="./Images/SQL.png" alt="sql" width="70"/>
+<img src="./Images/php.png" alt="php" width="70"/>
 </p>
 
 <!--
