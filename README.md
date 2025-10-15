@@ -12,7 +12,6 @@ In my current role in higher education, I focus on front-end technologies, web d
 
 <br/>
 <br/>
-<br/>
 <p>
 <img src="./Images/WP.png" alt="wp" width="70"/>
 <img src="./Images/php.png" alt="php" width="70"/>
