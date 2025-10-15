@@ -7,6 +7,7 @@ As a full-stack software developer with expertise in both front-end and back-end
 <br/>
 In my current role in higher education, I focus on front-end technologies, web development, design, user experience (UX), and accessibility. My work involves creating inclusive and engaging digital experiences that align with institutional goals and user needs. I also specialize in WordPress development, leveraging it to build scalable, accessible, and visually appealing websites that enhance usability and performance across diverse audiences.
 <br/>
+<br/>
 ≻────── ⋆✩⋆    LANGUAGE & TOOLS   ⋆✩⋆ ─────≺
 
 <br/>
