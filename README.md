@@ -1,5 +1,5 @@
 ## Hello I'm 👋
-<img src="./Name_Logo.PNG" alt="about" width="350"/>
+<img src="./Images/Name_Logo.PNG" alt="about" width="350"/>
 
 <br/>
 As a full-stack software developer with expertise in both front-end and back-end technologies, my passion lies in crafting modern, user-friendly software solutions that deliver exceptional user experiences. I love designing, engineering, and implementing innovative solutions that drive success and efficiency. With a decade-long career in the healthcare industry, I bring valuable transferable skills, such as problem-solving, attention to detail, and a deep understanding of user needs. This background enriches my approach to software development, allowing me to create solutions that are not only technically robust but also empathetic to the user experience.
@@ -9,7 +9,7 @@ As a full-stack software developer with expertise in both front-end and back-end
 
 <br/>
 <br/>
-<img src="./Images/WP.jpeg" alt="wp" width="75"/>
+<img src="./Images/WP.PNG" alt="wp" width="75"/>
 <img src="https://github.com/user-attachments/assets/c054b003-136e-4a0d-ad20-e37a997ae039" alt="css" width="75"/>
 <img src="https://github.com/user-attachments/assets/3d487c30-ef86-4022-9646-ea5b1fc78fd3" alt="spring" width="75"/>
 <img src="https://github.com/user-attachments/assets/e7db53c7-c5f8-41ba-b6e6-e2c065be92ff" alt="node" width="75"/>
