@@ -10,7 +10,7 @@ As a full-stack software developer with expertise in both front-end and back-end
 <br/>
 <br/>
 <img src="./Images/WP.png" alt="wp" width="75"/>
-<img src="https://github.com/user-attachments/assets/c054b003-136e-4a0d-ad20-e37a997ae039" alt="css" width="75"/>
+<img src="./Images/html.png" alt="html" width="75"/>
 <img src="https://github.com/user-attachments/assets/3d487c30-ef86-4022-9646-ea5b1fc78fd3" alt="spring" width="75"/>
 <img src="https://github.com/user-attachments/assets/e7db53c7-c5f8-41ba-b6e6-e2c065be92ff" alt="node" width="75"/>
 <img src="https://github.com/user-attachments/assets/fd214d95-5075-4e48-b002-a65c3d771646" alt="js" width="75"/>
