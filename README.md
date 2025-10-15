@@ -23,6 +23,19 @@ In my current role in higher education, I focus on front-end technologies, web d
 <img src="./Images/React.png" alt="react" width="75"/>
 <img src="./Images/SQL.png" alt="sql" width="75"/>
 
+
+<p>
+  ./Images/WP.png
+  ./Images/php.png
+  ./Images/html.png
+  ./Images/CSS.png
+  ./Images/JS.PNG
+  ./Images/Java.png
+  ./Images/SB.png
+  ./Images/React.png
+  ./Images/SQL.png
+</p>
+
 <!--
 **AliceSatinover/AliceSatinover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
